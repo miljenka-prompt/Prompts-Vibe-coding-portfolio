@@ -13,8 +13,7 @@ Perplexity Case study
 
 Summary of the Prompting Process: From Loss of Personal Focus to Return of Personalized and Empathetic Communication
 
-https://tinyurl.com/2sw5dyfa
-
+https://tinyurl.com/msthsktd
 
 
 Case Study: Fine-Tuning Prompt Engineering for Claude Sonnet 3.5 (Anthropic)
