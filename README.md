@@ -1,6 +1,32 @@
 # Prompts-Vibe-coding-portfolio
 Portfolio of samples of creative prompting and intuitive, non tech vibe coding
 
+Case Study: How I Groked with Grok about Black Holes for Dreamers
+
+Objective:
+To demonstrate how poetic prompt engineering can transform a factual query about black
+holes into an inspiring, imaginative, and educational experience, blending scientific accuracy
+with a dreamer’s perspective and enhancing user engagement.
+https://tinyurl.com/2zt7cckj
+
+Perplexity Case study 
+
+Summary of the Prompting Process: From Loss of Personal Focus to Return of Personalized and Empathetic Communication
+
+https://tinyurl.com/2sw5dyfa
+
+
+
+Case Study: Fine-Tuning Prompt Engineering for Claude Sonnet 3.5 (Anthropic)
+
+Introduction
+This case study demonstrates how prompt engineering can significantly influence the style,tone, and user experience of the Claude Sonnet 3.5 AI model, particularly in emotionally sensitive situations. 
+
+I analyze several response variants and evaluate their impact on the
+user.
+
+https://tinyurl.com/mwbfb45j
+
 LICENCE
 
 
